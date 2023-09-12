@@ -92,7 +92,7 @@ function accordion(props) {
                     install a new one if necessary.
                      Removing an old or installing a new one in its place.
                   </p>
-                  <Link to="#" class="learn-more">
+                  <Link to="/contact" class="learn-more">
                     Get Service
                   </Link>
                 </div>
@@ -112,7 +112,7 @@ function accordion(props) {
                     replacing the fuel filter, and addressing issues with the
                     fuel pump.
                   </p>
-                  <Link to="#" class="learn-more">
+                  <Link to="/contact" class="learn-more">
                     Get Service
                   </Link>
                 </div>
@@ -131,7 +131,7 @@ function accordion(props) {
                     This includes maintenance like changing transmission fluid
                     and replacing transmission components.
                   </p>
-                  <Link to="#" class="learn-more">
+                  <Link to="/contact" class="learn-more">
                     Get Service
                   </Link>
                 </div>

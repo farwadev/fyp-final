@@ -32,7 +32,7 @@ function cards(props) {
                 Canada to the United States and Mexico, extending from La Ronge,
                 Saskatchewan to El Paso, Texas. Electronic Fuel Injection (EFI)
               </p>
-              <Link to="/services" className="read-more">
+              <Link to="/contact" className="read-more">
                 Get Service{" "}
                 <span className="sr-only">about this is some title</span>
                 <svg
@@ -54,7 +54,7 @@ function cards(props) {
         <article>
           <div className="article-wrapper">
             <figure>
-              <img src={img1} alt="" />
+              <img src={img1} alt=""/>
             </figure>
             <div className="article-body">
               <h2>CANAM RXR</h2>
@@ -65,7 +65,7 @@ function cards(props) {
                 engine, liquid cooled with integrated intercooler and
                 high-perfomance air filter
               </p>
-              <Link to="/services" className="read-more">
+              <Link to="/contact" className="read-more">
                 Get Service{" "}
                 <span className="sr-only">about this is some title</span>
                 <svg
@@ -98,7 +98,7 @@ function cards(props) {
                 vehicle.The Slingshot Signature LE is powered by a Prostar 2.0L
                 4-cylinder engine that delivers 178 hp at 8,500 rpm.
               </p>
-              <Link to="/services" className="read-more">
+              <Link to="/contact" className="read-more">
                 Get Service{" "}
                 <span className="sr-only">about this is some title</span>
                 <svg
@@ -133,7 +133,7 @@ function cards(props) {
                 to survive the Great Depression along with its historical rival,
                 Indian Motorcycles.
               </p>
-              <Link to="/services" className="read-more">
+              <Link to="/contact" className="read-more">
                 Get Service{" "}
                 <span className="sr-only">about this is some title</span>
                 <svg
@@ -166,7 +166,7 @@ function cards(props) {
                 (177L) of capacity. Bluetooth-compatible BRP six-speaker
                 keypad-controllable sound system
               </p>
-              <Link to="/services" className="read-more">
+              <Link to="/contact" className="read-more">
                 Get Service{" "}
                 <span className="sr-only">about this is some title</span>
                 <svg
@@ -199,7 +199,7 @@ function cards(props) {
                 jet skis ability to make sharp turns and leap is similar to
                 snowboarding, thus the name jet ski.
               </p>
-              <Link to="/services" className="read-more">
+              <Link to="/contact" className="read-more">
                 Get Service{" "}
                 <span className="sr-only">about this is some title</span>
                 <svg
