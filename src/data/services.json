@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": "1",
+    "img": "/assets/images/car1.JPG",
+    "title": "CANAM X3",
+    "text": "OIL SERVICES , GREASING, ENGINE REPAIRING , BODY REPAIRING , GEAR REPAIRING, OIL SERVICES",
+    "text1": "Program : Stage 1 , Stage 2, Stage 3",
+    "text2": "HOME SERVICE IS AVAILABLE"
+
+  },
+  {
+    "id": "2",
+    "img": "/assets/images/car2.JPG",
+    "title": "POLARIS RZR 1000",
+    "text": "WITHOUT TURBO , OIL SERVICES , GREASING, ENGINE REPAIRING , BODY REPAIRING ,GEAR REPAIRING ",
+    "text1": " Program : Stage 1 ,Stage 2, Stage 3",
+    "text2": " HOME SERVICE IS AVAILABLE"
+
+    
+  },
+  {
+    "id": "3",
+    "img": "/assets/images/car6.JPG",
+    "title": "SLINGSHOT",
+    "text": "OIL SERVICES , GREASING, ENGINE REPAIRING , BODY REPAIRING ,GEAR REPAIRING,OIL SERVICES",
+    "text1": " Program : Stage 1 ,Stage 2, Stage 3",
+    "text2": "HOME SERVICE IS AVAILABLE"
+  },
+  {
+    "id": "4",
+    "img": "/assets/images/car10.JPG",
+    "title": "JETSKI YAMAHA",
+    "text": "OIL SERVICES , GREASING , ENGINE REPAIRING , BODY REPAIRING ,GEAR REPAIRING",
+    "text1": " Program : Stage 1 ,Stage 2, Stage 3",
+    "text2": "HOME SERVICE IS AVAILABLE"
+  },
+  {
+    "id": "5",
+    "img": "/assets/images/car11.JPG",
+    "title": "JETSKI",
+    "text": "OIL SERVICES , GREASING,  ENGINE REPAIRING , BODY REPAIRING ,GEAR REPAIRING",
+    "text1": " Program : Stage 1 ,Stage 2, Stage 3",
+    "text2": " HOME SERVICE IS AVAILABLE"
+
+  },
+  {
+    "id": "6",
+    "img": "/assets/images/car12.JPG",
+    "title": "JETSKI KAWASAKI",
+    "text": "OIL SERVICES , GREASING,  ENGINE REPAIRING , BODY REPAIRING ,GEAR REPAIRING",
+    "text1": "Program : Stage 1 ,Stage 2, Stage 3",
+    "text2": " HOME SERVICE IS AVAILABLE"
+
+  },
+  {
+    "id": "7",
+    "img": "/assets/images/car8.JPG",
+    "title": "LANDCRUISER",
+    "text": "OIL SERVICES , GREASING , BODY REPAIRING ,MECHANICAL AND ELECTRICAL WORK",
+    "text1": "Program : Stage 1 ,Stage 2, Stage 3",
+    "text2": "HOME SERVICE IS AVAILABLE"
+
+  },
+  {
+    "id": "8",
+    "img": "/assets/images/car9.JPG",
+    "title": "CHEVROLET",
+    "text": "OIL SERVICES , GREASING , ENGINE REPAIRING , BODY REPAIRING ,GEAR REPAIRING",
+    "text1": "Program : Stage 1 ,Stage 2, Stage 3",
+    "text2": "HOME SERVICE IS AVAILABLE"
+
+  },
+  {
+    "id": "9",
+    "img": "/assets/images/bike1.jpg",
+    "title": "HARLET-DAVIDSON",
+    "text": "OIL SERVICES , GREASING,  ENGINE REPAIRING , BODY REPAIRING ,GEAR REPAIRING",
+    "text1": "Program : Stage 1 ,Stage 2, Stage 3",
+    "text2": "HOME SERVICE IS AVAILABLE"
+
+  }
+]

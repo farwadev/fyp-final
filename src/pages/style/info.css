@@ -1,0 +1,35 @@
+
+@media (max-width: 767px) {
+  #about-me-box {
+    padding: 0 10px;
+  }
+}
+.featurette-heading{
+  margin-top: 45px;
+  font-size: 34px;
+  font-weight: 800;
+  font-family:Georgia, ;
+}
+.lead{
+  margin-top: 42px;
+  font-weight: 400;
+}
+.row{
+  margin: 20px 60px;
+}
+.row video {
+  max-width: 350px;
+
+  padding: 5px;
+  margin-top: 40px;
+}
+/* video {
+  background: linear-gradient(
+    to top,
+    rgba(105, 158, 255, 0.411) 40%,
+    #fffbf9 100%
+  );
+} */
+#about-me {
+  margin: 20px;
+}

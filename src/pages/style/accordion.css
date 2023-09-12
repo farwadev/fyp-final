@@ -1,0 +1,31 @@
+.accordion {
+  background: rgba(137, 192, 255, 0.884);
+    padding: 10px;
+    margin-top: 10px;
+    color: #000000;
+    cursor: pointer;
+  padding: 10px;
+  }
+  .collapsed{
+  background: rgba(101, 134, 172, 0.884);
+  
+  }
+  .accordion-button{
+  background: rgba(137, 192, 255, 0.884);
+
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    border: 2px solid black;
+    
+    
+  }
+  .accordion-body{
+    background: linear-gradient(
+    to top,
+    rgba(105, 158, 255, 0.411) 40%,
+    #fffbf9 100%
+  );
+  color: black;
+  border: 2px solid black;
+  }
+ 
